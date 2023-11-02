@@ -50,4 +50,4 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 
 ## Screenshot
 
-![Alt text](image.png)
+![Alt text](./image/image.png)
