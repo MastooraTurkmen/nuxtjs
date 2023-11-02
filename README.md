@@ -56,3 +56,4 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 ## Languages and Tools are used 🗣️🔧
 
 1. **Languages** 
+    + [HTML](https://github.com/topics/html)
