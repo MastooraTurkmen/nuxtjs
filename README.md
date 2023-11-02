@@ -58,3 +58,4 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 1. **Languages** 
     + [TypeScript](https://github.com/topics/typescript)
     + [Yarn](https://github.com/topics/yarn)
+    + [Vue](https://github.com/topics/vue)
