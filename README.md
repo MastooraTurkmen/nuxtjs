@@ -60,3 +60,5 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
     + [Yarn](https://github.com/topics/yarn)
     + [Vue](https://github.com/topics/vue)
     + [Nuxtjs](https://github.com/topics/nuxtjs)
+
+2. **Tools** 🔧
