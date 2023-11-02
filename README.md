@@ -62,3 +62,4 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
     + [Nuxtjs](https://github.com/topics/nuxtjs)
 
 2. **Tools** 🔧
+    + [Chrome](https://github.com/topics/chrome)
