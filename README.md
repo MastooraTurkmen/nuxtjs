@@ -37,6 +37,9 @@ npm run dev
 pnpm run dev
 ```
 
+```bash
+```
+
 ## Production
 
 Build the application for production:
