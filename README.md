@@ -85,3 +85,14 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
   }
 }
 ```
+
+
+### App.vue
+
+```
+<template>
+  <div>
+    <NuxtWelcome />
+  </div>
+</template>
+```
