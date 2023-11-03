@@ -98,3 +98,11 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 ```
 
 ### Nuxt.config.ts
+
+```
+export default {
+  nitro: {
+    preset: 'vercel-edge',
+  },
+};
+```
