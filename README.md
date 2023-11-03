@@ -55,6 +55,9 @@ Locally preview production build:
 npm run preview
 ```
 
+```bash
+```
+
 Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
 
 ------
