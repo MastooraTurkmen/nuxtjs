@@ -46,6 +46,7 @@ npm run build
 ```
 
 ```bash
+pnpm run build
 ```
 
 Locally preview production build:
