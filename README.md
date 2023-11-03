@@ -53,10 +53,10 @@ Locally preview production build:
 
 ```bash
 npm run preview
+pnpm run preview
 ```
 
 ```bash
-pnpm run preview
 ```
 
 Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
