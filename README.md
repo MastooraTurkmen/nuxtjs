@@ -53,6 +53,9 @@ npm run build
 pnpm run build
 ```
 
+```bash
+yarn run build
+```
 Locally preview production build:
 
 ```bash
