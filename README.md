@@ -8,6 +8,8 @@ _Live Example: https://nuxtjs-template.vercel.app_
 
 Look at the [Nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
+-----
+
 ## Setup
 
 Make sure to install the dependencies:
