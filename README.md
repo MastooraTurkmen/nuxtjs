@@ -96,3 +96,5 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
   </div>
 </template>
 ```
+
+### Nuxt.config.ts
