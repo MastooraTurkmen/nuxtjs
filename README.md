@@ -38,6 +38,7 @@ pnpm run dev
 ```
 
 ```bash
+yarn run dev
 ```
 
 ## Production
