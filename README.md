@@ -67,3 +67,21 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
     + [VSCode](https://github.com/topics/vscode)
     + [Vercel](https://github.com/topics/vercel)
 
+
+### Package Json
+
+```
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.0.0"
+  }
+}
+```
