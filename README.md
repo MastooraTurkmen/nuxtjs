@@ -65,3 +65,5 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
     + [Chrome](https://github.com/topics/chrome)
     + [Figma](https://github.com/topics/figma)
     + [VSCode](https://github.com/topics/vscode)
+    + [Vercel](https://github.com/topics/vercel)
+
