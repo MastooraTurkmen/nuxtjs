@@ -140,4 +140,4 @@ export default {
 };
 ```
 
-## Author
+## Author 👩‍💻
