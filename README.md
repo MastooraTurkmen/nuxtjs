@@ -41,6 +41,8 @@ pnpm run dev
 yarn run dev
 ```
 
+------
+
 ## Production
 
 Build the application for production:
