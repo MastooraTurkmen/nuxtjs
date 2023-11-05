@@ -67,6 +67,7 @@ pnpm run preview
 ```
 
 ```bash
+yarn run preview
 ```
 
 Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
