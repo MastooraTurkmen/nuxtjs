@@ -143,6 +143,7 @@ export default {
 ## Author 👩‍💻
 
 **Mastoora Turkmen**  
+<br>
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
 <br>
 [Github](https://github.com/MastooraTurkmen/) 
