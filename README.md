@@ -142,4 +142,4 @@ export default {
 
 ## Author 👩‍💻
 
-Mastoora Turkmen
+**Mastoora Turkmen**  
