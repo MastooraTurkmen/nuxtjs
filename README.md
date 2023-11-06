@@ -86,6 +86,7 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 $ git clone https://github.com/MastooraTurkmen/nuxtjs.git
 
 # Go inside the repository
+$ cd nuxtjs
 ````
 
 
