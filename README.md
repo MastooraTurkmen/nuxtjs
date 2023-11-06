@@ -140,6 +140,8 @@ export default {
 };
 ```
 
+------
+
 ## Author 👩‍💻
 
 **Mastoora Turkmen**  
