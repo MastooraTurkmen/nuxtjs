@@ -79,6 +79,19 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 ------
 
 
+## Cloning the project
+
+
+
+
+
+
+
+
+
+
+
+
 ## Screenshot 📸
 
 ![Nuxt screenshot](./image/image.png)
