@@ -81,7 +81,7 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 
 ## Screenshot 📸
 
-![Alt text](./image/image.png)
+![Nuxt screenshot](./image/image.png)
 
 
 ## Languages and Tools are used 🗣️🔧
