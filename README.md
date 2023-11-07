@@ -78,6 +78,10 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 
 ------
 
+## Before you Begin 🛠 🔨
+
+
+
 
 ## Cloning the project 🔨
 
