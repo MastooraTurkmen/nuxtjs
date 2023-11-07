@@ -94,6 +94,8 @@ $ pnpm run dev
 $ pnpm start
 ````
 
+````
+
 
 
 ## Cloning the project 🔨
