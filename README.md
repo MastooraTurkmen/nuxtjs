@@ -90,6 +90,7 @@ $ npm start
 
 ````
 $ pnpm install
+$ pnpm run dev
 
 ````
 
