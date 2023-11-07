@@ -98,6 +98,7 @@ $ pnpm start
 
 ````
 
+-------
 
 
 ## Cloning the project 🔨
