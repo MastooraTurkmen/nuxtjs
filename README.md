@@ -85,7 +85,7 @@ Quick start:
 ````
 $ npm install
 $ npm run dev
-
+$ npm start
 ````
 
 ## Cloning the project 🔨
