@@ -89,6 +89,7 @@ $ npm start
 ````
 
 ````
+$ pnpm install
 
 ````
 
