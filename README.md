@@ -90,8 +90,7 @@ $ cd nuxtjs
 ````
 
 
-
-
+------
 
 
 ## Screenshot 📸
