@@ -82,6 +82,8 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 
 Quick start:
 
+````
+
 
 
 ## Cloning the project 🔨
