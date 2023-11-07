@@ -83,7 +83,7 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 Quick start:
 
 ````
-
+$ npm install
 
 ````
 
