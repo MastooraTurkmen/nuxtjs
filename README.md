@@ -96,6 +96,7 @@ $ pnpm start
 
 ````
 $ yarn 
+$ yarn run dev
 
 ````
 
