@@ -82,6 +82,9 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
 
 Quick start:
 
+
+***1. npm***
+
 ````
 $ npm install
 $ npm run dev
