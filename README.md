@@ -91,6 +91,8 @@ $ npm run dev
 $ npm start
 ````
 
+***2. ***
+
 ````
 $ pnpm install
 $ pnpm run dev
