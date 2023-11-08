@@ -99,7 +99,7 @@ $ pnpm run dev
 $ pnpm start
 ````
 
-***3.***
+***3. yarn***
 
 
 ````
