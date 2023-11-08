@@ -95,6 +95,7 @@ $ pnpm start
 ````
 
 ````
+$ yarn install
 
 ````
 
