@@ -127,7 +127,7 @@ $ cd nuxtjs
 
 ## Screenshot 📸
 
-![Nuxt screenshot](./image/image.png)
+![Nuxt screenshot](./image/screenshot.png)
 
 
 ## Languages and Tools are used 🗣️🔧
