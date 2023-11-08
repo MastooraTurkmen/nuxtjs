@@ -99,6 +99,9 @@ $ pnpm run dev
 $ pnpm start
 ````
 
+***3.***
+
+
 ````
 $ yarn 
 $ yarn run dev
