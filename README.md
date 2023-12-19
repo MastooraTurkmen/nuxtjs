@@ -47,6 +47,8 @@ npm run preview
 
 Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment#presets) for more information.
 
+------
+
 
 ## Screenshot 📸
 
@@ -67,6 +69,8 @@ Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/de
     + [VSCode](https://github.com/topics/vscode)
     + [Vercel](https://github.com/topics/vercel)
 
+
+------
 
 ### Package Json
 
